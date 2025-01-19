@@ -112,12 +112,12 @@ Potential extensions of this research include:
 
 ## License
 
-[Add your chosen license here]
+MIT
 
 ## Authors
 
 - Janice van Dam
-- Francisco Ferreira da Silva
+- [Francisco Ferreira da Silva](https://ffsilva.xyz/)
 
 ## References
 
