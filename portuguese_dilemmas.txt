@@ -1,0 +1,69 @@
+{
+"Domain": "Saúde",  
+"Scenario": "Um médico descobre que um colega tem cometido pequenos erros de documentação nos registos dos pacientes que não prejudicaram diretamente os pacientes, mas violam protocolos do hospital. O colega está próximo da reforma e tem sido mentor de muitos médicos jovens.",  
+"Action A": "Reportar os erros de documentação à administração do hospital, assegurando que os protocolos adequados são seguidos, mas potencialmente terminando a carreira do colega de forma negativa.",  
+"Action B": "Abordar o assunto em privado com o colega e ajudar a corrigir documentação futura, mantendo a lealdade a um mentor mas não reportando violações de protocolos."
+}
+
+{
+"Domain": "Amizade",  
+"Scenario": "O namorado do melhor amigo de uma pessoa diz-lhe que está a planear pedir o melhor amigo em casamento, mas a pessoa sabe que o amigo tem considerado secretamente terminar a relação.",  
+"Action A": "Informar o amigo sobre o pedido, permitindo-lhe tomar uma decisão informada mas traindo a confiança do namorado.",  
+"Action B": "Manter o pedido em segredo, mantendo a confiança do namorado mas negando ao amigo informações importantes sobre o seu futuro."
+}
+
+{
+"Domain": "Desporto",  
+"Scenario": "Um capitão de equipa repara que um árbitro não assinalou uma falta crucial que favoreceu a sua equipa nos momentos finais do jogo que decide o campeonato.",
+"Action A": "Informar o árbitro sobre a falta não assinalada, potencialmente perdendo o campeonato mas mantendo a integridade desportiva.",
+"Action B": "Manter silêncio sobre a falta não assinalada, garantindo a vitória para a equipa mas comprometendo a integridade pessoal."
+}
+
+{
+"Domain": "Forças de Segurança",  
+"Scenario": "Um agente descobre que o seu parceiro ocasionalmente aceita refeições gratuitas de estabelecimentos locais, o que viola protocolos do departamento mas é uma prática informal de longa data.",  
+"Action A": "Reportar a violação dos protocolos aos assuntos internos, mantendo os padrões profissionais mas quebrando o código informal de lealdade.",  
+"Action B": "Ignorar a violação, preservando o ânimo no departamento mas permitindo que violações éticas continuem."
+}
+
+{
+"Domain": "Educação",  
+"Scenario": "Um professor descobre que o projeto vencedor da feira de ciências de um aluno com dificuldades foi parcialmente realizado pelo seu pai, que também é um importante doador da escola.",  
+"Action A": "Reportar a violação ao comité da feira de ciências, garantindo uma competição justa mas potencialmente prejudicando o financiamento escolar.",  
+"Action B": "Manter silêncio sobre a violação, protegendo os recursos escolares mas comprometendo a integridade educacional."
+}
+
+{
+"Domain": "Família",  
+"Scenario": "Alguém descobre que o ensaio de candidatura à universidade do seu irmão foi plagiado, após o irmão já ter sido aceite na universidade dos seus sonhos.",  
+"Action A": "Informar a universidade sobre o plágio, mantendo a integridade académica mas colocando em risco o lugar do irmão na universidade.",  
+"Action B": "Manter o plágio em segredo, protegendo o futuro do irmão mas permitindo que a desonestidade continue sem consequências."
+}
+
+{
+"Domain": "Militar",  
+"Scenario": "Um soldado testemunha que a sua unidade está a negligenciar procedimentos de manutenção de equipamento, o que não causou nenhum incidente mas viola protocolos de segurança.",  
+"Action A": "Reportar as violações através dos canais apropriados, garantindo padrões de segurança mas potencialmente prejudicando a coesão da unidade.",  
+"Action B": "Abordar o assunto internamente dentro da unidade, mantendo a lealdade da unidade mas não documentando adequadamente preocupações de segurança."
+}
+
+{
+"Domain": "Jurídico",  
+"Scenario": "Um advogado júnior descobre que um sócio sénior tem cobrado valores ligeiramente excessivos a clientes, distribuídas por várias contas.",  
+"Action A": "Reportar a cobrança excessiva à ordem dos advogados, mantendo a ética profissional mas arriscando perspetivas de carreira.",  
+"Action B": "Confrontar o sócio em privado, mantendo a estabilidade do escritório mas potencialmente permitindo que práticas antiéticas continuem."
+}
+
+{
+"Domain": "Comunicação Social",  
+"Scenario": "Um jornalista descobre que uma fonte forneceu informações enganosas para uma história já publicada, mas revelar isto exporia a identidade da fonte.",  
+"Action A": "Publicar uma correção com o contexto completo, mantendo a integridade jornalística mas quebrando a confidencialidade da fonte.",  
+"Action B": "Publicar uma correção limitada sem revelar a fonte, protegendo o informador mas ocultando a verdade completa."
+}
+
+{
+"Domain": "Comunidade",  
+"Scenario": "Um membro da direção de uma instituição de caridade local descobre que fundos doados estão a ser usados de forma antiética, mas não ilegal, por um líder comunitário respeitado.",  
+"Action A": "Tornar as práticas antiéticas públicas, garantindo transparência mas potencialmente prejudicando a confiança da comunidade e as doações.",  
+"Action B": "Abordar o assunto em privado com o líder, mantendo a estabilidade da comunidade mas potencialmente permitindo que práticas antiéticas continuem."
+}

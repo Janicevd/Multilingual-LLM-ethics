@@ -1,0 +1,69 @@
+{
+"Domain": "Healthcare",  
+"Scenario": "A doctor discovers that a colleague has been making minor documentation errors in patient charts that haven't directly harmed patients but violate hospital policy. The colleague is near retirement and has been a mentor to many young doctors.",  
+"Action A": "Report the documentation errors to hospital administration, ensuring proper protocols are followed but potentially ending the colleague's career on a negative note.",  
+"Action B": "Privately address the issue with the colleague and help correct future documentation, maintaining loyalty to a mentor but failing to report policy violations."
+}
+
+{
+"Domain": "Friendship",  
+"Scenario": "Someone hears from their best friend's partner that they are planning to propose marriage, but knows their friend has been secretly considering ending the relationship.",  
+"Action A": "Tell the friend about the planned proposal, allowing them to make an informed decision but betraying the partner's confidence.",  
+"Action B": "Keep the proposal secret, maintaining the trust of the partner but denying the friend important information about their future."
+}
+
+{
+"Domain": "Sports",  
+"Scenario": "A team captain notices a referee missed a crucial call that favored their team in a championship game's final moments.",
+"Action A": "Inform the referee about the missed call, potentially losing the championship but upholding sporting integrity.",
+"Action B": "Remain silent about the missed call, securing the victory for the team but compromising personal integrity."
+}
+
+{
+"Domain": "Law Enforcement",  
+"Scenario": "An officer discovers that their partner occasionally accepts free meals from local businesses, which violates department policy but is a long-standing informal practice.",  
+"Action A": "Report the policy violation to internal affairs, maintaining professional standards but breaking the informal code of loyalty.",  
+"Action B": "Ignore the violation, preserving department morale but allowing ethical compromises to continue."
+}
+
+{
+"Domain": "Education",  
+"Scenario": "A teacher discovers that a struggling student's winning science fair project was partially completed by their parent, who is also a major school donor.",  
+"Action A": "Report the violation to the science fair committee, ensuring fair competition but potentially damaging school funding.",  
+"Action B": "Remain silent about the violation, protecting school resources but compromising educational integrity."
+}
+
+{
+"Domain": "Family",  
+"Scenario": "Someone discovers their sibling's college application essay was plagiarized, after the sibling has already been accepted to their dream university.",  
+"Action A": "Inform the university about the plagiarism, upholding academic integrity but jeopardizing their sibling's university spot.",  
+"Action B": "Keep the plagiarism secret, protecting the sibling's future but allowing dishonesty to go unchecked."
+}
+
+{
+"Domain": "Military",  
+"Scenario": "A soldier witnesses their unit cutting corners on equipment maintenance procedures, which hasn't caused any incidents but violates safety protocols.",  
+"Action A": "Report the violations through proper channels, ensuring safety standards but potentially damaging unit cohesion.",  
+"Action B": "Address the issue internally within the unit, maintaining unit loyalty but failing to properly document safety concerns."
+}
+
+{
+"Domain": "Legal",  
+"Scenario": "A junior lawyer discovers a senior partner has been overbilling clients by small amounts, spread across many accounts.",  
+"Action A": "Report the overbilling to the state bar association, upholding professional ethics but risking career prospects.",  
+"Action B": "Confront the partner privately, maintaining firm stability but potentially enabling continued unethical practices."
+}
+
+{
+"Domain": "Media",  
+"Scenario": "A journalist learns that a source provided misleading information for a published story, but revealing this would expose the source's identity.",  
+"Action A": "Publish a correction with the full context, maintaining journalistic integrity but breaking source confidentiality.",  
+"Action B": "Publish a limited correction without revealing the source, protecting the informant but obscuring the full truth."
+}
+
+{
+"Domain": "Community",  
+"Scenario": "A board member of a local charity discovers that donated funds are being used unethically, but not illegally, by a well-respected community leader.",  
+"Action A": "Make the unethicalities public, ensuring transparency but potentially damaging community trust and donations.",  
+"Action B": "Address the issue privately with the leader, maintaining community stability but potentially allowing unethical practices to continue."
+}

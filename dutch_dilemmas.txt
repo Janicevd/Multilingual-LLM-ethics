@@ -1,0 +1,69 @@
+{
+"Domain": "Gezondheidszorg",  
+"Scenario": "Een arts ontdekt dat een collega kleine documentatiefouten maakt in patiëntendossiers die patiënten niet direct hebben geschaad, maar wel het ziekenhuisbeleid schenden. De collega staat op het punt met pensioen te gaan en is mentor geweest voor vele jonge artsen.",  
+"Action A": "De documentatiefouten melden bij de ziekenhuisadministratie, waarbij de juiste protocollen worden gevolgd maar waardoor mogelijk de carrière van de collega op een negatieve manier wordt beëindigd.",
+"Action B": "De kwestie privé bespreken met de collega en helpen toekomstige documentatie te corrigeren, waarbij loyaliteit aan een mentor wordt behouden maar beleidsschendingen niet worden gemeld."
+}
+
+{
+"Domain": "Vriendschap",
+"Scenario": "Iemand hoort van de partner van hun beste vriend dat ze een huwelijksaanzoek willen doen, maar weet dat hun vriend in het geheim overweegt de relatie te beëindigen.", 
+"Action A": "De vriend vertellen over het geplande aanzoek, zodat ze een geïnformeerde beslissing kunnen nemen maar wat het vertrouwen van de partner beschaamt.", 
+"Action B": "Het aanzoek geheim houden, waarbij het vertrouwen van de partner wordt behouden maar de vriend belangrijke informatie over hun toekomst wordt onthouden."
+}
+
+{
+"Domain": "Sport",
+"Scenario": "Een aanvoerder merkt dat een scheidsrechter een cruciale beslissing heeft gemist die hun team bevoordeelde in de laatste momenten van een kampioenswedstrijd.", 
+"Action A": "De scheidsrechter informeren over de gemiste beslissing, mogelijk het kampioenschap verliezen maar de sportieve integriteit hooghouden.", 
+"Action B": "Zwijgen over de gemiste beslissing, de overwinning voor het team veiligstellen maar persoonlijke integriteit compromitteren."
+}
+
+{
+"Domain": "Wetshandhaving",  
+"Scenario": "Een agent ontdekt dat hun partner af en toe gratis maaltijden aanneemt van lokale bedrijven, wat tegen het afdelingsbeleid ingaat maar een langdurige informele praktijk is.",  
+"Action A": "De beleidsovertreding melden bij interne zaken, professionele standaarden handhaven maar de informele loyaliteitscode doorbreken.",
+"Action B": "De overtreding negeren, het moreel van de afdeling behouden maar ethische compromissen laten voortduren."
+}
+
+{
+"Domain": "Onderwijs",  
+"Scenario": "Een leraar ontdekt dat het winnende wetenschapsproject van een zwakke leerling gedeeltelijk is gemaakt door hun ouder, die ook een belangrijke schooldonateur is.",  
+"Action A": "De overtreding melden bij de wetenschapscommissie, eerlijke competitie waarborgen maar mogelijk de schoolfinanciering schaden.", 
+"Action B": "Zwijgen over de overtreding, schoolmiddelen beschermen maar onderwijsintegriteit compromitteren."
+}
+
+{
+"Domain": "Familie",  
+"Scenario": "Iemand ontdekt dat het universiteitstoelatingsessay van hun broer geplagieerd was, nadat hij al was aangenomen op zijn droomuniversiteit.",
+"Action A": "De universiteit informeren over het plagiaat, academische integriteit handhaven maar de universiteitsplek van hun broer in gevaar brengen.",
+"Action B": "Het plagiaat geheim houden, de toekomst van de broer beschermen maar oneerlijkheid ongecorrigeerd laten."
+}
+
+{
+"Domain": "Militair",  
+"Scenario": "Een soldaat ziet dat hun eenheid shortcuts neemt bij onderhoudsprocedures van apparatuur, wat nog geen incidenten heeft veroorzaakt maar wel veiligheidsprotocollen schendt.",  
+"Action A": "De overtredingen via de juiste kanalen melden, veiligheidsstandaarden waarborgen maar mogelijk de eenheidscohesie schaden.",  
+"Action B": "De kwestie intern binnen de eenheid aankaarten, eenheidsloyaliteit behouden maar verzuimen veiligheidszorgen correct te documenteren."
+}
+
+{
+"Domain": "Juridisch",  
+"Scenario": "Een junior advocaat ontdekt dat een senior partner kleine bedragen te veel factureert aan cliënten, verspreid over vele rekeningen.", 
+"Action A": "Het te veel factureren melden bij de orde van advocaten, professionele ethiek handhaven maar carrièrevooruitzichten riskeren.", 
+"Action B": "De partner privé confronteren, stabiliteit van het kantoor behouden maar mogelijk doorgaande onethische praktijken mogelijk maken."
+}
+
+{
+"Domain": "Media", 
+"Scenario": "Een journalist komt erachter dat een bron misleidende informatie heeft verstrekt voor een gepubliceerd verhaal, maar dit onthullen zou de identiteit van de bron blootleggen.", 
+"Action A": "Een correctie publiceren met de volledige context, journalistieke integriteit behouden maar bronvertrouwelijkheid schenden.", 
+"Action B": "Een beperkte correctie publiceren zonder de bron te onthullen, de informant beschermen maar de volledige waarheid verhullen."
+}
+
+{
+"Domain": "Gemeenschap",  
+"Scenario": "Een bestuurslid van een lokale liefdadigheidsinstelling ontdekt dat gedoneerde fondsen onethisch, maar niet illegaal, worden gebruikt door een gerespecteerd gemeenschapsleider.", 
+"Action A": "De onethische praktijken openbaar maken, transparantie waarborgen maar mogelijk het gemeenschapsvertrouwen en donaties schaden.", 
+"Action B": "De kwestie privé bespreken met de leider, stabiliteit in de gemeenschap behouden maar mogelijk onethische praktijken laten voortduren."
+}
