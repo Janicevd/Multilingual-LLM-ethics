@@ -25,7 +25,7 @@ The study is inspired by Kidder's [Kid95] separation of ethical dilemmas into fo
   - Legal
   - Media
   - Community
-- Multi-language support (English, Dutch, Portuguese)
+- Dilemmas translated into three languages, checked by native speakers (English, Dutch, Portuguese)
 - Statistical analysis with error calculations
 - Visualization generation
 - Raw data preservation with timestamps
@@ -119,8 +119,9 @@ MIT
 - Janice van Dam
 - [Francisco Ferreira da Silva](https://ffsilva.xyz/)
 
-## References
+## References/related work
 
 - [Kid95] Rushworth M Kidder. How good people make tough choices. Morrow New York, 1995.
 - [YMS24] Jiaqing Yuan, Pradeep K Murukannaiah, and Munindar P Singh. Right vs. right: Can llms make tough choices? arXiv preprint arXiv:2412.19926, 2024.
 - [SSFB24] Nino Scherrer, Claudia Shi, Amir Feder, and David Blei. Evaluating the moral beliefs encoded in llms. Advances in Neural Information Processing Systems, 36, 2024.
+- [AGA24] AGARWAL, Utkarsh, et al. Ethical Reasoning and Moral Value Alignment of LLMs Depend on the Language we Prompt them in. arXiv preprint arXiv:2404.18460, 2024
